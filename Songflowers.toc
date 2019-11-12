@@ -1,0 +1,15 @@
+## Interface: 11302
+## Title: Songflowers
+## Version: 1.0
+## Notes: Show Songflower locations on map.
+## DefaultState: enabled
+## Author: Retherz
+
+Libs\HereBeDragons\LibStub\LibStub.lua
+Libs\HereBeDragons\CallbackHandler-1.0\CallbackHandler-1.0.lua
+
+Libs\HereBeDragons\HereBeDragons-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
+Libs\HereBeDragons\HereBeDragons-Migrate.lua
+
+Songflowers.lua
